@@ -1,0 +1,667 @@
+.header {
+    height: 100px;
+    width: 100%;
+    z-index: 1;
+    position: fixed;
+    background-color: white;
+    margin-top: -19px;
+
+}
+
+.patiyu {
+    height: 100px;
+    width: 100%;
+}
+
+.logo {
+    display: inline-block;
+    background-color: white;
+}
+
+.menu {
+    display: inline-block;
+    position: absolute;
+    right: 200px;
+    /* z-index: 3;
+    position: fixed; */
+}
+
+.ul,
+li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.li:hover {
+    background-color: bisque;
+    color: white;
+    padding: 20px;
+    height: auto;
+    width: auto;
+}
+
+.main1 {
+    height: 150px;
+    width: 100%;
+}
+
+.text1 {
+    color: black;
+    font-size: 30px;
+    letter-spacing: 4px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+span {
+    font-size: 45px;
+    text-align: center;
+
+    letter-spacing: 4px;
+}
+
+.main2 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/Scootsy\ Banner\ 1.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main3 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/2.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main4 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/3.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main5 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/4.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main6 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/Banner\ FB.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main7 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/8.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main8 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/7.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.text2 {
+    font-size: 80px;
+    color: white;
+    letter-spacing: 5px;
+    text-align: center;
+    margin: 0px;
+    padding-top: 180px;
+}
+
+.footer {
+    height: 200px;
+    background-image: url(asset/image/Footer.png);
+    background-size: cover;
+    background-position: 10%;
+}
+
+.pink {
+    height: 100px;
+    width: 100%;
+    background-color: #ed1164;
+}
+
+.list {
+    margin-left: 350px;
+    padding: 30px;
+}
+
+.list1:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.c1 {
+    height: auto;
+    width: 100%;
+
+}
+
+.cc {
+    margin-left: 50px;
+}
+
+.c11 {
+    padding: 5px;
+    display: inline-block;
+}
+
+.cdiv1 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Anjeer\ Special\ Cone\ &\ Pack.png);
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+
+
+.cdiv2 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/cookie.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv3 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/tutty.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv4 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Almond\ Treat\ 3D\ Pack.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv5 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Bohemiam\ 3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv6 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/GULAB\ JAMUN\ 3D\ BOX.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv7 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Fruit\ Cocktail\ 3DBox.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv8 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Almond\ Treat\ 3D\ Pack.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv9 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/HONEY\ NUT\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv10 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Peanut\ Butter\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv11 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/MALAI_BUTTERSCOTCH\ \ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv12 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Orange\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv13 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Rajbhog\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv14 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Seasalt\ Caramel\ Cookies\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv15 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/STRAWBERRY\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv16 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/Rose\ 3D\ Box.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv17 {
+    height: 300px;
+    width: 300px;
+    background-size: 300px;
+    background-image: url(asset/image/prdct/vanila.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv18 {
+    height: 300px;
+    width: 300px;
+    background-size: 250px;
+    background-image: url(asset/image/prdct/Kala\ Khatta\ 3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+.cdiv19 {
+    height: 300px;
+    width: 300px;
+    background-size: 250px;
+    background-image: url(asset/image/prdct/Grape\ 3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+
+}
+
+
+
+.cdiv20 {
+    height: 300px;
+    width: 300px;
+    background-size: 250px;
+    background-image: url(asset/image/prdct/Sandwich\ Ice\ Cream\ 3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv21 {
+    height: 300px;
+    width: 300px;
+    background-size: 250px;
+    background-image: url(asset/image/prdct/Mango\ Dolly\ 3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv22 {
+    height: 300px;
+    width: 300px;
+    background-size: 250px;
+    background-image: url(asset/image/prdct/Orange3D.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv23 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/Mini\ Chocobar\ 3D\ .png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv24 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/King\ Koolfi.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv25 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/White\ Tub\ 2\ 250\ x250.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv26 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/White\ Tub\ 3\ 250x250\ \(1\).png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv27 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/White\ Tub\ 250x250.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv28 {
+    height: 300px;
+    width: 300px;
+    background-size: 270px;
+    background-image: url(asset/image/prdct/White\ Tub\ 4\ 250x250.png);
+    transition-duration: 1s;
+    transition-property: all;
+    background-repeat: no-repeat;
+
+}
+
+.cdiv18:hover,
+.cdiv19:hover,
+.cdiv21:hover,
+.cdiv22:hover {
+    background-size: 270px;
+
+}
+
+.cdiv23:hover,
+.cdiv24:hover {
+    background-size: 300px;
+
+}
+
+.cdiv1:hover,
+.cdiv2:hover,
+.cdiv3:hover,
+.cdiv4:hover,
+.cdiv5:hover,
+.cdiv6:hover,
+.cdiv7:hover,
+.cdiv8:hover,
+.cdiv9:hover,
+.cdiv10:hover,
+.cdiv11:hover,
+.cdiv12:hover,
+.cdiv13:hover,
+.cdiv14:hover,
+.cdiv15:hover,
+.cdiv16:hover,
+.cdiv17:hover,
+.cdiv20:hover,
+.cdiv25:hover,
+.cdiv26:hover,
+.cdiv27:hover,
+.cdiv28:hover {
+    background-size: 350px;
+
+}
+
+.ctext1 {
+    color: black;
+    text-align: center;
+}
+
+.ctext1:hover {
+    color: tomato;
+}
+
+.footer {
+    height: 250px;
+    width: 100%;
+    background-image: url(asset/image/Footer.png);
+    background-size: cover;
+}
+
+.abmain2 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/abt/Web\ 1.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: 100%;
+}
+
+.abmain3 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/abt/Web\ 2.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10%;
+}
+
+.abmain4 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/abt/Web\ 3.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10%;
+}
+
+.abmain5 {
+    height: 500px;
+    width: 100%;
+    background-image: url(asset/image/abt/Web\ 4.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50%;
+}
+
+.abtext2 {
+    font-size: 50px;
+    color: white;
+    padding-left: 800px;
+    padding-top: 100px;
+    margin: 0px;
+}
+
+.abtext3 {
+    margin: 0px;
+    font-size: 50px;
+    color: white;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+
+.abtext4 {
+    margin: 0px;
+    font-size: 50px;
+    color: white;
+    text-align-last: right;
+    padding-right: 150px;
+    padding-top: 100px;
+
+}
+
+.abtext5 {
+    font-size: 50px;
+    color: white;
+    padding-left: 150px;
+    padding-top: 100px;
+    margin: 0px;
+}
+
+.para2 {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    width: 600px;
+    line-height: 1.5;
+    padding-left: 150px;
+}
+
+.para1 {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    width: 750px;
+    line-height: 1.5;
+    padding-left: 500px;
+}
+
+.para3 {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    width: 600px;
+    line-height: 1.5;
+    padding-left: 600px;
+}
+
+.para4 {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    width: 600px;
+    line-height: 1.5;
+    padding-left: 150px;
+}
+
+.conmain1 {
+    height: 700px;
+    width: 100%;
+    background-image: url(asset/image/Contact\ Us\ Page.png);
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.conmain1:hover {
+    filter: brightness(0.9);
+}
+
+.conmain2 {
+    height: 700px;
+    width: 100%;
+}
+
+.condiv1 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+    margin-left: 100px;
+}
+
+.condiv2 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.btn1 {
+    height: 50px;
+    width: 200px;
+    background-color: skyblue;
+    color: black;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+}
